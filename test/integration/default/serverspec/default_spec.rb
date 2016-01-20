@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'elasticsearch-chef-blog-demo::default' do
+describe 'elasticsearch-for-aws' do
 
   # Serverspec examples can be found at
   # http://serverspec.org/resource_types.html
