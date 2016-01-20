@@ -1,6 +1,6 @@
 name             'elasticsearch-for-aws'
 maintainer       'Armand Komenan'
-maintainer_email 'you@example.com'
+maintainer_email 'armand_komenan@yahoo.com'
 license          'all_rights'
 description      'Installs/Configures lasticsearch-for-aws'
 long_description 'Installs/Configures lasticsearch-for-aws'
